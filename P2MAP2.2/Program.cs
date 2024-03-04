@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Dano y Selena!");
+            Console.WriteLine("Hello, Dano y Selena y Goku!");
         }
     }
 }
