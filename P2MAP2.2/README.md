@@ -5,3 +5,4 @@ Habituarnos al ciclo de trabajo con Git danojuanSUUUUUUU la sotia que largo este
 
 Nueva funcionalidad añadida: customización de los colores del juego
 
+Nueva funcionalidad añadida: Posición de ratón
